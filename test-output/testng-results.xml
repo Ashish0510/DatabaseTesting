@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T20:04:52 IST" name="Default suite" finished-at="2023-04-02T20:04:53 IST" duration-ms="546">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T20:04:52 IST" name="Default test" finished-at="2023-04-02T20:04:53 IST" duration-ms="546">
+      <class name="DatbaseTest.FirstDataBasetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:DatbaseTest.FirstDataBasetest@732c2a62]" started-at="2023-04-02T20:04:52 IST" name="setup" finished-at="2023-04-02T20:04:53 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="storedProcedureExists()[pri:1, instance:DatbaseTest.FirstDataBasetest@732c2a62]" started-at="2023-04-02T20:04:53 IST" name="storedProcedureExists" finished-at="2023-04-02T20:04:53 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storedProcedureExists -->
+        <test-method signature="comapareAllColumns()[pri:2, instance:DatbaseTest.FirstDataBasetest@732c2a62]" started-at="2023-04-02T20:04:53 IST" name="comapareAllColumns" finished-at="2023-04-02T20:04:53 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comapareAllColumns -->
+        <test-method signature="CompareWithparameter()[pri:3, instance:DatbaseTest.FirstDataBasetest@732c2a62]" started-at="2023-04-02T20:04:53 IST" name="CompareWithparameter" finished-at="2023-04-02T20:04:53 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompareWithparameter -->
+        <test-method signature="withtwoparameters()[pri:4, instance:DatbaseTest.FirstDataBasetest@732c2a62]" started-at="2023-04-02T20:04:53 IST" name="withtwoparameters" finished-at="2023-04-02T20:04:53 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withtwoparameters -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:DatbaseTest.FirstDataBasetest@732c2a62]" started-at="2023-04-02T20:04:53 IST" name="teardown" finished-at="2023-04-02T20:04:53 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- DatbaseTest.FirstDataBasetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
